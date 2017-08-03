@@ -1,0 +1,11 @@
+module cobraApp
+{
+    // Specify interface to our address book
+    interface ServerCobra
+    {
+    string viewFile();
+	void addFile(in string day);
+	void deleteData( in string data);
+
+	};
+};

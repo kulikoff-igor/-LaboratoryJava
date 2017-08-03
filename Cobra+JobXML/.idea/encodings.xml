@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/client/MainClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cobraApp/ServerCobra.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cobraApp/ServerCobraHelper.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cobraApp/ServerCobraHolder.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cobraApp/ServerCobraOperations.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cobraApp/_ServerCobraImplBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cobraApp/_ServerCobraStub.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jobXML/AddXML.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jobXML/DeleteXML.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jobXML/ViewXML.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jobXML/testMainConsole.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/MainServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/server/ServerServant.java" charset="windows-1251" />
+  </component>
+</project>
